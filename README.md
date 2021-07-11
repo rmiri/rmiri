@@ -3,6 +3,7 @@
 - Ruby Dev
 - London Based
 - https://www.linkedin.com/in/renatamiriuk/
+- [CV](http://renatamiri.uk/assets/Renata_Miriuk_backend_developer.pdf)
 
 <!--
 **rmiri/rmiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
